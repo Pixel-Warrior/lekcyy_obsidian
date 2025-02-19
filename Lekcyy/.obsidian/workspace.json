@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "38515704542cb819",
+    "type": "split",
+    "children": [
+      {
+        "id": "5784d6565315fbad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6986030d2d092d47",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-15 13.31.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-15 13.31.17.excalidraw"
+            }
+          },
+          {
+            "id": "a3acc9f02d404202",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a82b01f3f732775d",
+    "type": "split",
+    "children": [
+      {
+        "id": "642a870f3a2621e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a05c1e9783d2895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b47959632669f0d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7ee01f1683b87668",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5ad54d970124d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "69be2cd1c3d7af50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c65871ddc69a17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Предметы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Предметы"
+            }
+          },
+          {
+            "id": "252bc5404d12595b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Предметы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Предметы"
+            }
+          },
+          {
+            "id": "8e8dd93eb5a7dbba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7fb9c60302c316fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Предметы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Предметы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "6986030d2d092d47",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-15 13.31.17.excalidraw.md",
+    "Основы конструирования электронных            средств/Лекция 1. Введение.md",
+    "Основы конструирования электронных            средств/ОКЭС - Основы конструирования электронных средств.md",
+    "Физические основы технологии производства микроэлектроники/Лекция 1. Резисторы.md",
+    "Физические основы технологии производства микроэлектроники/Лекция 2. Виды резисторов.md",
+    "Физические основы технологии производства микроэлектроники/ФОТПМ - Физические основы технологии производства микроэлектроники.md",
+    "Предметы.md",
+    "Основы радиоэлектроники и связи/ОРиС - Основы радиоэлектроники и связи.md",
+    "Основы радиоэлектроники и связи/Лекция 1. Сигналы.md",
+    "Информационные технологии проектирования радиоэлектронных средств/ИТПРС - Информационные технологии проектирования радиоэлектронных средств.md",
+    "Интегральные устройства радиоэлектроники и            наноэлектроники/ИУРиН - Интегральные устройства радиоэлектроники и наноэлектроники.md",
+    "Интегральные устройства радиоэлектроники и            наноэлектроники/Лекция 1. Строение атома.md",
+    "Медиа/Pasted image 20250213114154.png",
+    "Медиа/Pasted image 20250213130746.png",
+    "Медиа/Pasted image 20250213132321.png",
+    "Медиа/Pasted image 20250213134032.png",
+    "Медиа/Pasted image 20250213233539.png",
+    "Медиа/Pasted image 20250215150007.png",
+    "Медиа/Pasted image 20250215150021.png",
+    "Медиа/Pasted image 20250215152359.png",
+    "Медиа/Pasted image 20250215152426.png",
+    "Медиа/Pasted image 20250215152445.png",
+    "Основы радиоэлектроники и связи/Математический ликбез про интеграллы.md",
+    "Excalidraw/Drawing 2025-02-19 10.56.31.excalidraw.md",
+    "Физические основы технологии производства микроэлектроники/Толстопленочные и тонкопленочные резисторы.md",
+    "Основы радиоэлектроники и связи",
+    "Информационные технологии проектирования радиоэлектронных средств/Лекция 1. Информационные технологии.md",
+    "Excalidraw/Drawing 2025-02-13 11.04.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-13 23.30.15.excalidraw.md",
+    "Основы конструирования электронных            средств",
+    "Лекция 2..md",
+    "Картинки",
+    "Медиа",
+    "Excalidraw/Drawing 2025-02-13 11.43.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-13 10.57.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-13 08.41.06.excalidraw.md",
+    "Интегральные устройства радиоэлектроники и            наноэлектроники",
+    "Drawing 2025-02-13 08.24.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-13 08.24.56.excalidraw.md",
+    "Excalidraw",
+    "Физические основы технологии производства микроэлектроники",
+    "Информационные технологии проектирования радиоэлектронных средств",
+    "Добро пожаловать.md"
+  ]
+}
