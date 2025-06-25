@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed937cc6aaa319f",
+        "id": "e1dee8c167e246ae",
         "type": "tabs",
         "children": [
           {
-            "id": "2eafdf2e321324f1",
+            "id": "6e6619797fb0b9d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcyy/Основы радиоэлектроники и связи/ОРиС - Основы радиоэлектроники и связи.md",
+                "file": "Lekcyy/Информационные технологии проектирования радиоэлектронных средств/Лекция 1. Информационные технологии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОРиС - Основы радиоэлектроники и связи"
-            }
-          },
-          {
-            "id": "de5edb767d880958",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Lekcyy/Безопасность жизнедеятельности/БЖД - Безопасность жизнедеятельности.md",
-                "bFile": "Lekcyy/Безопасность жизнедеятельности/БЖД - Безопасность жизнедеятельности.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: БЖД - Безопасность жизнедеятельности"
+              "title": "Лекция 1. Информационные технологии"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Backlinks"
             }
           },
           {
@@ -131,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Outgoing links"
             }
           },
           {
@@ -146,7 +131,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -155,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lekcyy/Информационные технологии проектирования радиоэлектронных средств/Лекция 1. Информационные технологии.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Outline of Лекция 1. Информационные технологии"
             }
           },
           {
-            "id": "e5b277aea9e8de27",
+            "id": "91dce698bfd2ace2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -178,26 +164,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de5edb767d880958",
+  "active": "6e6619797fb0b9d6",
   "lastOpenFiles": [
+    "Lekcyy/Excalidraw/Drawing 2025-02-13 11.04.47.excalidraw.md",
     "Lekcyy/Предметы.md",
-    "Lekcyy/Безопасность жизнедеятельности/БЖД - Безопасность жизнедеятельности.md",
+    "README.md",
     "Lekcyy/Основы радиоэлектроники и связи/ОРиС - Основы радиоэлектроники и связи.md",
-    "Lekcyy/Безопасность жизнедеятельности/Лекция 1. Основные принципы БЖД, основные понятия и положения.md",
-    "README.md"
+    "Lekcyy/Безопасность жизнедеятельности/БЖД - Безопасность жизнедеятельности.md",
+    "Lekcyy/Безопасность жизнедеятельности/Лекция 1. Основные принципы БЖД, основные понятия и положения.md"
   ]
 }
