@@ -1,4 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-vimrc-support",
+  "obsidian-relative-line-numbers"
 ]
