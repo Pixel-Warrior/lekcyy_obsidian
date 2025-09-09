@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Lekcyy/Медиа"
 }
